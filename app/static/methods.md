@@ -22,7 +22,7 @@ Members of the consortium have developed pipelines to analyse the data produced 
 * For a subset of samples (progenitor cells), RNA-seq reads are aligned to the transcriptome using bowtie and transcription is quantified with MMSEQ. ([link](#/md/rna_seq_cu_grch37))
 
 
-##Secondary analysis methods
+<!-- ##Secondary analysis methods
 
 The secondary analysis products are described in more detail [here](#/md/secondary_analysis).
 
@@ -33,4 +33,5 @@ The secondary analysis products are described in more detail [here](#/md/seconda
 * PCA analysis of ChIP-Seq data ([link](#/md/secondary_analysis/PCA_analysis_of_ChIP-Seq_data_20150128))
 * RnBeads analysis of DNA methylation profiles ([link](#/md/secondary_analysis/RnBeads_analysis_for_Methylation_data_20150128))
 * ChromHmm Segmentation of ChIP-Seq data ([link](#/md/secondary_analysis/Segmentation_of_ChIP-Seq_data_20150128))
+-->
 
