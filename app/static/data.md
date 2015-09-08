@@ -35,10 +35,10 @@ Our data is available both from the sequence archives and from our own FTP site,
 			<td><a href="https://blueprint.genomatix.de">Genomatix browser</a></td>
 		</tr>
 		<tr>
-			<td>BLUEPRINT Track Hub on the <a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&hubUrl=http://ftp.ebi.ac.uk/pub/databases/blueprint/releases/next_release/homo_sapiens/hub/hub.txt">UCSC browser</a> </td>
+			<td>BLUEPRINT Track Hub on the <a href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&hubUrl=http://ftp.ebi.ac.uk/pub/databases/blueprint/releases/current_release/homo_sapiens/hub/hub.txt">UCSC browser</a> </td>
 		</tr>
 		<tr>
-			<td>BLUEPRINT Track Hub on the <a href="http://ensembl.org/Homo_sapiens/Location/View?g=ENSG00000130544;contigviewbottom=url:http://ftp.ebi.ac.uk/pub/databases/blueprint/releases/next_release/homo_sapiens/hub/hub.txt;format=DATAHUB;menu=Blueprint%20data">Ensembl browser</a></td>
+			<td>BLUEPRINT Track Hub on the <a href="http://ensembl.org/Homo_sapiens/Location/View?g=ENSG00000130544;contigviewbottom=url:http://ftp.ebi.ac.uk/pub/databases/blueprint/releases/current_release/homo_sapiens/hub/hub.txt;format=DATAHUB;menu=Blueprint%20data">Ensembl browser</a></td>
 		</tr>
 	</tbody>
 </table>
