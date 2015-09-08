@@ -28,7 +28,7 @@ Our data is available both from the sequence archives and from our own FTP site,
 		</tr>
 		<tr>
 			<td>Data mining</td>
-			<td>CNIO portal</td>
+			<td><a href="http://blueprint-data.bsc.es/">Data portal</a></td>
 		</tr>
 		<tr>
 			<td rowspan="3">Genome browser</td>
