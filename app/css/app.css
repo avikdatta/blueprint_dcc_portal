@@ -60,7 +60,7 @@ html[data-useragent*='MSIE 9'] .homepage-chart svg, html[data-useragent*='MSIE 1
   height: 500px;
 }
 .homepage-chart .axis text {
-  font-size: 14px;
+  font-size: 13px;
 }
 
 /*Sort BG*/

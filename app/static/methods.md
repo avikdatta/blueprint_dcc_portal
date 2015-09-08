@@ -7,7 +7,7 @@
 
 Members of the consortium have developed pipelines to analyse the data produced by the project consistently. The publicly distributable data is listed on the [file list](#/files).
 
-* BS-seqreads are aligned using GEM, and methylation status is deterimned with bs\_call. ([link](#/md/bs_seq_grch38)) 
+* BS-seq reads are aligned using GEM, and methylation status is determined with bs\_call. ([link](#/md/bs_seq_grch38)) 
 * ChIP-seq reads are aligned using BWA and enriched regions are called using MACS2. ([link](#/md/chip_seq_grch38))
 * DNAse-seq reads are aligned using BWA and enriched regions are called using Hotspot. ([link](#/md/dnase_seq_grch38))
 * RNA-seq reads are aligned using GEM and transcription is quantified with FLUX capacitor. ([link](#/md/rna_seq_grch38))
@@ -15,7 +15,7 @@ Members of the consortium have developed pipelines to analyse the data produced 
  
 ### Method details for primary data analysis on human genome GRCh37 can be found here
  
-* BS-seqreads are aligned using GEM, and methylation status is deterimned with bs\_call. ([link](#/md/bs_seq_grch37)) 
+* BS-seq reads are aligned using GEM, and methylation status is determined with bs\_call. ([link](#/md/bs_seq_grch37)) 
 * ChIP-seq reads are aligned using BWA and enriched regions are called using MACS2. ([link](#/md/chip_seq_grch37))
 * DNAse-seq reads are aligned using BWA and enriched regions are called using Hotspot. ([link](#/md/dnase_seq_grch37))
 * RNA-seq reads are aligned using GEM and transcription is quantified with FLUX capacitor. ([link](#/md/rna_seq_grch37))
